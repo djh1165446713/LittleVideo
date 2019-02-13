@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "180107BCE6CE5DD60FCDF3FD6DB457F31C8B8184",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "45BB88E8FDD269E31282308A52E7C02C0FEB523A" : 9223372036854775807,
+    "180107BCE6CE5DD60FCDF3FD6DB457F31C8B8184" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7782692F-0452-4F62-9E6A-0D97A8883DBB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "45BB88E8FDD269E31282308A52E7C02C0FEB523A" : "Axibar%E6%BA%90%E7%A0%81%E7%9A%84%E5%89%AF%E6%9C%AC\/Pods\/",
+    "180107BCE6CE5DD60FCDF3FD6DB457F31C8B8184" : "Axibar%E6%BA%90%E7%A0%81%E7%9A%84%E5%89%AF%E6%9C%AC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Axiba",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Axiba.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/djh1165446713\/omo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "180107BCE6CE5DD60FCDF3FD6DB457F31C8B8184"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/djh1165446713\/omo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "45BB88E8FDD269E31282308A52E7C02C0FEB523A"
+    }
+  ]
+}
